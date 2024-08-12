@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gofres</title>
+</head>
+<body>
+    <h1>Gofres</h1>
+    <img src="gofres-belgas-1.jpg" alt="Gofres">
+    <h2>Ingredientes</h2>
+    <ul>
+        <li>300 g de harina de trigo</li>
+        <li>2 huevos</li>
+        <li>100 g de azúcar</li>
+        <li>100 g de mantequilla derretida</li>
+        <li>90 ml de leche</li>
+        <li>1 sobre de levadura seca</li>
+        <li>1 pizca de sal</li>
+        <li>Esencia de vainilla (opcional)</li>
+    </ul>
+    <h2>Instrucciones</h2>
+    <ol>
+        <li>En un bol, mezcla la harina, el azúcar, la sal y la levadura.</li>
+        <li>En otro bol, bate los huevos y la leche.</li>
+        <li>Combina las mezclas húmeda y seca, y añade la mantequilla derretida y la esencia de vainilla.</li>
+        <li>Deja reposar la masa durante 30 minutos en un lugar cálido.</li>
+        <li>Calienta la gofrera y engrasa ligeramente.</li>
+        <li>Vierte la masa en la gofrera y cocina hasta que esté dorada.</li>
+        <li>Sirve caliente con tus toppings favoritos: frutas, chocolate, nata montada, etc.</li>
+    </ol>
+</body>
+</html>
