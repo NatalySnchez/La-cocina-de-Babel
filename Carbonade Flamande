@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Carbonade flamande</title>
+</head>
+<body>
+    <h1>Carbonade flamande</h1>
+    <img src="Carbonade flamande.jpg" alt="Carbonade flamande">
+    <h2>Ingredientes</h2>
+    <ul>
+        <li>1 kg de carne de ternera para estofar (tapa, falda)</li>
+        <li>4 cebollas grandes, cortadas en juliana</li>
+        <li>500 ml de cerveza rubia belga</li>
+        <li>50 g de mantequilla</li>
+        <li>2 hojas de laurel</li>
+        <li>1 cucharadita de azúcar moreno</li>
+        <li>1 cucharada de vinagre de malta</li>
+        <li>Sal y pimienta al gusto</li>
+    </ul>
+    <h2>Instrucciones</h2>
+    <ol>
+        <li>Salpimienta la carne y dóralas en una olla grande con mantequilla.</li>
+        <li>Retira la carne y sofríe las cebollas hasta que estén doradas y caramelizadas.</li>
+        <li>Vuelve a agregar la carne a la olla, añade la cerveza, las hojas de laurel, el azúcar moreno y el vinagre.</li>
+        <li>Cocina a fuego lento durante al menos 2 horas, o hasta que la carne esté tierna y el líquido se haya reducido.</li>
+        <li>Sirve caliente con patatas fritas o puré de patatas.</li>
+    </ol>
+</body>
+</html>
