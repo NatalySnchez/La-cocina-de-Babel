@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Waterzooi</title>
+</head>
+<body>
+    <h1>Waterzooi</h1>
+    <img src="Waterzooi.jpg" alt="Waterzooi">
+    <h2>Ingredientes</h2>
+    <ul>
+        <li>1 pollo entero, troceado</li>
+        <li>500 g de patatas, cortadas en cubos</li>
+        <li>2 cebollas, picadas</li>
+        <li>2 dientes de ajo, picados</li>
+        <li>250 ml de crema de leche</li>
+        <li>250 ml de caldo de pollo</li>
+        <li>1 yema de huevo</li>
+        <li>Perejil picado, para decorar</li>
+        <li>Sal y pimienta al gusto</li>
+    </ul>
+    <h2>Instrucciones</h2>
+    <ol>
+        <li>Dora el pollo en una olla grande con un poco de aceite.</li>
+        <li>Retira el pollo y sofríe las cebollas y el ajo en la misma olla.</li>
+        <li>Vuelve a agregar el pollo, las patatas, la crema de leche, el caldo de pollo, sal y pimienta.</li>
+        <li>Cocina a fuego lento durante unos 30 minutos, o hasta que el pollo y las patatas estén tiernos.</li>
+        <li>En un bol pequeño, bate la yema de huevo con un poco de agua fría.</li>
+        <li>Retira una taza del líquido de la olla y viértelo sobre la yema de huevo, batiendo constantemente.</li>
+        <li>Vuelve a agregar la mezcla de yema a la olla y cocina a fuego muy bajo, sin dejar de remover, hasta que la salsa espese.</li>
+        <li>Sirve caliente, espolvoreado con perejil picado.</li>
+    </ol>
+</body>
+</html>
