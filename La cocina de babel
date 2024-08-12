@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>La Cocina de Babel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>La Cocina de Babel</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Recetas</a></li>
+                </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="recetas">
+            <h2>Recetas Típicas Belgas</h2>
+            <ul>
+                <li><a href="moules-frites.html">Moules-frites</a></li>
+                <li><a href="carbonade-flamande.html">Carbonade flamande</a></li>
+                <li><a href="waterzooi.html">Waterzooi</a></li>
+                <li><a href="gofres.html">Gaufres (Gofres)</a></li>
+            </ul>
+        </section>
+        
+        </main>
+    <footer>
+        </footer>
+</body>
+</html>
+
